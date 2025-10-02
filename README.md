@@ -59,7 +59,7 @@ A web program designed to help students and faculty manage their LRC needs, maki
  Thank you for booking!
  
  
-# CONTRBUTERS
+# CONTRIBUTERS
 Maglente, Bianca Nikolai [8-Jasmine]
 
 Cabrito, Izabelle Ianthe [8-Jasmine]
